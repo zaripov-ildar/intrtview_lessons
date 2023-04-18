@@ -1,6 +1,6 @@
 package ru.gb.interview.task_1;
 
-public class test {
+public class CreatePerson {
     public static void main(String[] args) {
         Person person = new Person.Builder()
                 .lastName("afe")
